@@ -46,3 +46,8 @@ for i in range(n):
 
 ## OUTPUT
 <img width="637" height="779" alt="Screenshot 2025-11-18 090805" src="https://github.com/user-attachments/assets/f132dd63-ac85-419d-bfab-1a0a1c438967" />
+
+
+## Result
+Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
+
